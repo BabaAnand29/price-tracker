@@ -1,5 +1,9 @@
 # Price Intelligence Tracker
 
+## Live Demo
+**API (Deployed on Railway):** [price-tracker-production-4693.up.railway.app/docs](https://price-tracker-production-4693.up.railway.app/docs)
+> Open the link to interact with the live REST API — add product URLs, query price history, and check price drop alerts in real time.
+> 
 An automated price monitoring system built with Python. Tracks product prices from e-commerce pages, stores historical price data in PostgreSQL, and exposes insights via a REST API.
 
 ## Architecture
